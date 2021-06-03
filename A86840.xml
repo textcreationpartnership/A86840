@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Scottish, and many others the inhabitants of the Province of Ulster, in the Kingdome of Ireland. To the right reverend and right honorable the moderator, and remnant members of the Generall Assembly of Scotland, conveened at S. Andrews in July. 1642.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86840</idno><idno type="EEBO-CITATION">99860582</idno>
+  <idno type="VID">112705</idno>
+  <idno type="EEBO-PROQUEST">2248531151</idno>
+  
+            <idno type="STC">Wing H3578</idno>
+            <idno type="STC">Thomason E112_24</idno>
+            <idno type="STC">ESTC R19132</idno>
+            <idno type="PROQUEST">99860582</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860582e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112705)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Scottish, and many others the inhabitants of the Province of Ulster, in the Kingdome of Ireland. To the right reverend and right honorable the moderator, and remnant members of the Generall Assembly of Scotland, conveened at S. Andrews in July. 1642.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Aug. 17. Printed for John Bartlet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland. --  General Assembly --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112705:1"/>
+            <p>THE HVMBLE PETITION OF THE <hi>SCOTTISH,</hi> And many others the Inhabitants of the Province of <hi>Ulster,</hi> in the Kingdome of <hi>Ireland.</hi> To the Right Reverend and Right Ho<g ref="char:EOLhyphen"/>norable the <hi>Moderator,</hi> and remnant Members of the Generall Assembly of <hi>SCOTLAND,</hi> Conveened at S. <hi>Andrews in</hi> July. 1642.</p>
+            <figure>
+               <figDesc>printer's device or ornament (cf. McKerrow 379)</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON, Aug.</hi> 17. Printed for <hi>John Bartlet.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:112705:2"/>
+            <pb n="1" facs="tcp:112705:2"/>
+            <head>To the Right Reverend &amp; Right Honorable the Moderator and remnant Members of the general Assembly of <hi>Scotland,</hi> conveened at S. <hi>Andrews,</hi> in <hi>July,</hi> 1642.</head>
+            <head>The humble Petition, &amp;c.</head>
+            <opener>Humbly sheweth,</opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hat whereas your Petitioners by the great blessings of the Lord enjoyed for a little while a fruitfull and peaceable Ministery of the Gospel, yet through our owne abuse of so rich a mercy, and through the Tyrannie of the Prelates, we have been for a long time spoiled of our Ministers (a yoak to many of us heavier then death) who being chased into <hi>Scotland,</hi> were not altogether unusefull in the day of need; and we having beene since oppressed and scattered as sheep, who have no Shepherd, now at last the wise and righteous hand of the Lord, by the sword of the Rebels, hath berest us of our friends, spoiled us of our goods, and left us but a few, and that a poore handfull of many, and hath chased from us even the rest that were called our Ministers, the greatest part whereof we
+<pb n="2" facs="tcp:112705:3"/> could scarce esteeme such, as being rather Officers to put the Prelates injunctions in execution, then feeders of our soules: So that now being already visited with sword and sicknesse, and under some ap<g ref="char:EOLhyphen"/>prehension of famine, if withall we shall taste of the sorest of all plagues, to be altogether deprived of the Ministery of the Word, we shall become in so much a worse condition then any Pagans, as that once we enjoyed a better. Neither know we what hand to turn to for help, but to the Land, so far ob<g ref="char:EOLhyphen"/>liged by the Lords late rare mercies, and so far en<g ref="char:EOLhyphen"/>riched to furn sh help of that kind; a land whence many of us draw our bloud and breath, and where (pardon the necessary boldnesse to say our own Mi<g ref="char:EOLhyphen"/>nisters now are, who were so violently pluckt from us, so sore against their owne and our wills; yea the Land that so tenderly in their bosomes received our, poore out casts, and that hath already sent us so rich a supply of able and prosperous <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iers to re<g ref="char:EOLhyphen"/>venge our wrongs.</hi>
+            </p>
+            <p>THerefore although we know that your zeal and brotherly affection would urge you to take notice of our condition without our adver<g ref="char:EOLhyphen"/>tisement; yet give us leave in the bowels of Jesus Christ, to entreat, if there be any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels of mercy, that now in the nick of time, when the sword of the enemie making way for a more profitable entertaining the Gospel, having also banished the Prelates and
+<pb n="7" facs="tcp:112705:3"/> their followers, when our extremity of our di<g ref="char:EOLhyphen"/>stresse, and the faire hopes of a speedy setling of Peace, hath opened so faire a doore to the Go<g ref="char:EOLhyphen"/>spel, you would take the cause of your younger sister (that hath no breasts) to your serious consi<g ref="char:EOLhyphen"/>deration, and pity poore Macedonians crying to you, that you would come over and help us, being the servants of the God of your Fathers, and clai<g ref="char:EOLhyphen"/>ming interest with you in a common Covenant, that according the good hand of God upon us, you may send us Ministers for the house of our God. We doe not take upon us to prescribe the way or the number, but in the view of all, the sin<g ref="char:EOLhyphen"/>ger of the Lord points at these: who though the persecution of the Prelates drave from us, yet our interest in them could not bee taken away, wherein we trust, in regard of several of them cal<g ref="char:EOLhyphen"/>led home by death, your bounty will super-adde some of your owne that are able men, that may helpe to lay the foundation of Gods house accor<g ref="char:EOLhyphen"/>ding to the patterne. But for these so unjustly reft from us, not onely our necessity, but equity pleads, that either you would presently send them all over, which were a worke to be paralleld to the gloryes of the Primitive times, or at least that you would declare them transportable, that when invitations shall be sent unto any of them, where<g ref="char:EOLhyphen"/>in they may discerne a calling from God, there may be no difficulty in their loosing from thence, but they may come back to perfect what they begun, and may get praise and same in the land
+<pb n="4" facs="tcp:112705:4"/> where they were put to shame. Neither are you to question your power over us so to doe, or crave a presidence of your own practice in that kind, for our extraordinary need calling on you, furnishes you with power to make this a president for the like cases thereafter. Herein if you shall lay aside the particular concernment of some few places, which you may easily out of your rich nurseries plant againe, and make use of your publique spi<g ref="char:EOLhyphen"/>rits, which are not spent, but increased by your so many former noble designes, you shall leave up<g ref="char:EOLhyphen"/>on us and our posterity the stamp of an obligation that cannot be deleate, that cannot be expressed. You shall send to all the neighbouring Churches a patterne, and erect for after-ages a monument of selfe-denying, tender zeale, that shall dis<g ref="char:EOLhyphen"/>burden that land of the many out-casts who will follow over their Ministers, and you shall make it appeare that the churlish bounty of the Prelates, which at first cast some of these over unto us, is not comparable with the cheerfull liberality of a rightly constitute generall Assembly, to whom we are perswaded the Lord will give seed for the loane which you bestow on the Lord: Yea the day may come when a generall Assembly in this Land may returne to you the first fruits of thanks for the plants of your free gift.</p>
+            <p>And although you were scant of furniture of this kind your selves, or might apprehend more need then formerly, yet doubtlesse your bowels of compassion would make your deepe poverty,
+<pb n="5" facs="tcp:112705:4"/> even as in a great tryall of affliction, abound to the riches of your Liberality. But now seeing you a<g ref="char:EOLhyphen"/>bound in all things, and have formerly given so <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a proofe of your large bestowing on <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> abroad in <hi>Germany,</hi> and <hi>France,</hi> know<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you are not weary in well-doing, we con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> promise to our selves, in your names, that <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bound in this grace also; following the <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of our Lord and the Primitive Churches, <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> sent out Disciples in payrs; but if here<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> shall faile us, we shall not know whe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that we had dyed with our brethren by <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ies hand, for we shall bee as if it were said unto us, <hi>Go serve other Gods;</hi> yet looking for a<g ref="char:EOLhyphen"/>nother kind of Answer at your hands, for in this you are to us as an Angell of God, who have sent these be<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rers our brethren, who may more par<g ref="char:EOLhyphen"/>ticularly enforme you of our cause and desires, that at their returne they may refresh the bowels of</p>
+            <closer>
+               <signed>Your most instant and earnest Supplicants.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
